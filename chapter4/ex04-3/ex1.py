@@ -1,0 +1,6 @@
+print("range(5)", list(range(5)))
+print("range(4,6)", list(range(4,6)))
+print("range(7,0,-1)", list(range(7,0,-1)))
+print("range(7,0 - 1,-1)", list(range(7,0 - 1,-1)))
+print("range(3,8)", list(range(3,8)))
+print("range(3,8)", list(range(3, 10, 3)))
